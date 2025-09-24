@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "user_id": "user_1",
+    "user_name": "Sarah Chen",
+    "user_avatar": "/placeholder.svg?height=40&width=40",
+    "site_id": 1,
+    "site_name": "Blue Corner",
+    "caption": "Amazing dive at Blue Corner today! Saw a school of hammerhead sharks and the current was perfect. Visibility was incredible at 30m+. Can't wait to come back! 🦈",
+    "media": ["/placeholder.svg?height=300&width=400", "/placeholder.svg?height=300&width=400"],
+    "created_at": "2024-01-15T10:30:00Z",
+    "likes_count": 24,
+    "comments": [
+      {
+        "id": 1,
+        "user_name": "Mike Rodriguez",
+        "comment": "Wow! Those hammerheads look incredible. What time of day did you dive?",
+        "created_at": "2024-01-15T11:15:00Z"
+      },
+      {
+        "id": 2,
+        "user_name": "Emma Thompson",
+        "comment": "Blue Corner is on my bucket list! Thanks for sharing 🤿",
+        "created_at": "2024-01-15T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "user_id": "user_2",
+    "user_name": "Jake Wilson",
+    "user_avatar": "/placeholder.svg?height=40&width=40",
+    "site_id": 3,
+    "site_name": "Manta Point",
+    "caption": "Manta ray cleaning station was absolutely magical! Three mantas stayed for over 20 minutes. The gentle giants were so graceful. Perfect conditions with 25m visibility.",
+    "media": ["/placeholder.svg?height=300&width=400"],
+    "created_at": "2024-01-14T16:45:00Z",
+    "likes_count": 31,
+    "comments": [
+      {
+        "id": 3,
+        "user_name": "Lisa Park",
+        "comment": "Mantas are so majestic! Did you see any reef sharks too?",
+        "created_at": "2024-01-14T17:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "user_id": "user_3",
+    "user_name": "Alex Kumar",
+    "user_avatar": "/placeholder.svg?height=40&width=40",
+    "site_id": 5,
+    "site_name": "Crystal Bay",
+    "caption": "Night dive at Crystal Bay was epic! Spotted a walking shark and so many nudibranchs. The macro life here is unreal. Water temp was perfect at 27°C.",
+    "media": ["/placeholder.svg?height=300&width=400", "/placeholder.svg?height=300&width=400"],
+    "created_at": "2024-01-13T20:15:00Z",
+    "likes_count": 18,
+    "comments": []
+  },
+  {
+    "id": 4,
+    "user_id": "user_4",
+    "user_name": "Maria Santos",
+    "user_avatar": "/placeholder.svg?height=40&width=40",
+    "site_id": 2,
+    "site_name": "Turtle Town",
+    "caption": "Turtle paradise! Counted 12 green sea turtles on this dive. One was huge - probably 100+ years old. The coral formations were pristine too. 🐢",
+    "media": ["/placeholder.svg?height=300&width=400", "/placeholder.svg?height=300&width=400"],
+    "created_at": "2024-01-12T14:20:00Z",
+    "likes_count": 42,
+    "comments": [
+      {
+        "id": 4,
+        "user_name": "David Lee",
+        "comment": "12 turtles in one dive?! That's incredible luck!",
+        "created_at": "2024-01-12T15:00:00Z"
+      },
+      {
+        "id": 5,
+        "user_name": "Sophie Brown",
+        "comment": "The old turtle looks so wise! Great shots 📸",
+        "created_at": "2024-01-12T16:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "user_id": "user_5",
+    "user_name": "Tom Anderson",
+    "user_avatar": "/placeholder.svg?height=40&width=40",
+    "site_id": 7,
+    "site_name": "The Drop Off",
+    "caption": "Advanced dive at The Drop Off today. Strong currents but worth it for the pelagic action! Saw white tip reef sharks, eagle rays, and a massive school of barracuda.",
+    "media": ["/placeholder.svg?height=300&width=400", "/placeholder.svg?height=300&width=400"],
+    "created_at": "2024-01-11T11:00:00Z",
+    "likes_count": 27,
+    "comments": [
+      {
+        "id": 6,
+        "user_name": "Rachel Green",
+        "comment": "The Drop Off is intense! How was the current at depth?",
+        "created_at": "2024-01-11T12:15:00Z"
+      }
+    ]
+  }
+]
